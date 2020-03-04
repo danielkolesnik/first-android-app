@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <!-- Default palette -->
+<!--    <color name="colorPrimary">#CD66DF</color>-->
+<!--    <color name="colorPrimaryDark">#9123A3</color>-->
+<!--    <color name="colorAccent">#D81B60</color>-->
 
-    <!-- Violet palette -->
-    <color name="backgroundPrimary">#CD66DF</color>
-    <color name="backgroundDark">#9123A3</color>
-    <color name="textPrimary">#FFFFFF</color>
-    <color name="textSecondary">#B4FFFFFF</color>
-
+    <!-- Custom palette -->
+    <color name="colorPrimary">#7b1fa2</color>
+    <color name="colorPrimaryLight">#ae52d4</color>
+    <color name="colorPrimaryDark">#4a0072</color>
+    <color name="colorSecondary">#512da8</color>
+    <color name="colorSecondaryLight">#8559da</color>
+    <color name="colorSecondaryDark">#140078</color>
+    <color name="colorPrimaryText">#f3e5f5</color>
+    <color name="colorSecondaryText">#ede7f6</color>
 
 </resources>

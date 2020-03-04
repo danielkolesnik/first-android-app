@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">First Android App</string>
+    <string name="app_name">NOOBY Android App</string>
+    <!-- Main activity -->
+    <string name="activity_main_text_vetName">Enter ur name</string>
+    <string name="activity_main_text_vetSurname">Enter ur surname</string>
+    <string name="activity_main_text_vetBirthDate">Enter ur birth date</string>
+    <string name="activity_main_text_vbtnLetsGo">Lets go</string>
+    <!-- Second activity -->
+    <string name="activity_second_text_vtGreeting">WELCOME to my NOOBY app</string>
+    <string name="activity_second_text_vtNotToMention">Not to mention u re</string>
 </resources>
